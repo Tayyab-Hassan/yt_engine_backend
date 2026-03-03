@@ -1,0 +1,19 @@
+{
+  "name": "yt_engine_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^4.22.1",
+    "firebase-admin": "^13.7.0",
+    "googleapis": "^171.4.0"
+  }
+}
